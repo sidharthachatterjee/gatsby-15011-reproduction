@@ -1,9 +1,9 @@
 import { Router } from "@reach/router"
 import React from "react"
 
-const Index = () => <h1>Index Page</h1>
+const Index = () => <h1>App Page</h1>
 
-const NotFound = () => <h1>Not Found in Index</h1>
+const NotFound = () => <h1>Not Found in App</h1>
 
 const IndexPage = () => (
   <Router>
